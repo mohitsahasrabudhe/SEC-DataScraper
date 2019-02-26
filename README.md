@@ -7,3 +7,6 @@ An example of what the scraped Data looks like
 
 ## sec_2.py
 The python code that is run to scrape the data
+
+## TweetClass2.py
+A Keras based Classifier that is trained to detect business buckets from Tweets
